@@ -1,6 +1,6 @@
 {
-  "version": 255,
-  "file": "https://raw.githubusercontent.com/puhuelectronics/rb2-firmware/main/rb2_v2.55.bin",
-  "size": 201472,
-  "crc32": 4062465268
+  "version": 256,
+  "file": "https://raw.githubusercontent.com/puhuelectronics/rb2-firmware/main/rb2_v2.56.bin",
+  "size": 201280,
+  "crc32": 4122336455
 }
